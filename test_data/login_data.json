@@ -1,0 +1,13 @@
+[
+  {
+    "email":"admin@gmail.com",
+    "password":"admin123",
+    "status":200
+  },
+
+  {
+    "email":"admin@gmail.com",
+    "password":"wrong",
+    "status":401
+  }
+]
